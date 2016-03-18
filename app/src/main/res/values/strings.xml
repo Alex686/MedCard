@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">MedCard</string>
     <string name="addpriem_title">addpriem</string>
+
     <string name="menu_item_priems">Приёмы</string>
+
+    <string name="view_navogation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
 </resources>
