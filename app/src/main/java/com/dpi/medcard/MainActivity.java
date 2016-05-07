@@ -11,7 +11,6 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
 import com.dpi.medcard.adapter.TabPagerFragmentAdapter;
-import com.dpi.medcard.fragment.PriemsFragment;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -21,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private DrawerLayout drawerLayout;
     private ViewPager viewPager;
+
 
 
 
